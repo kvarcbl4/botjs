@@ -1,0 +1,33 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "by @valentin1412",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "NoInfo",
+  "license": "ISC",
+  "dependencies": {
+    "@qiwi/bill-payments-node-js-sdk": "^3.2.1",
+    "bip39": "^3.0.4",
+    "cheerio": "^1.0.0-rc.10",
+    "easy-zip": "0.0.4",
+    "ethers": "^5.5.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^10.0.0",
+    "input": "^1.0.1",
+    "mysql2": "^2.3.0",
+    "node-qiwi-api": "^2.1.2",
+    "node-schedule": "^2.0.0",
+    "node-themoviedb": "^0.2.8",
+    "rimraf": "^3.0.2",
+    "seasonvar-api": "^1.0.10",
+    "telegraf": "3.38.0",
+    "telegram": "^1.10.8",
+    "tmdb": "^2.6.0",
+    "valid-url": "^1.0.9",
+    "zip-local": "^0.3.4",
+    "zlib": "^1.0.5"
+  }
+}
